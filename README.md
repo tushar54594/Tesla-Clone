@@ -1,6 +1,5 @@
 # Tesla-Website-Clone
 
-Live Website Link : https://tushar54594.github.io/Tesla-Clone/
 
 ![Screenshot (577)](https://user-images.githubusercontent.com/94536522/178146616-dece2cb3-83e3-44ec-bb00-87daf5502cc2.png)
 
